@@ -15,4 +15,4 @@ Then, start simulation in the following format: ```simplessd-standalone <Simulat
 ```bash
 ./simplessd-standalone ./config/simulation_sample.cfg ./simplessd/config/ssd_sample.cfg .
 ```
-You can change some other simulation settings (e.g., SSD size, I/O patterns) in ```simulation_sample.cfg``` and ```ssd_sample.cfg```. Note that after my modification, the simulator no longer supports superpage in the simulator.
+You can change some other simulation settings (e.g., SSD size, I/O patterns) in ```simulation_sample.cfg``` and ```ssd_sample.cfg```. Note that after my modification, the simulator no longer supports superpage.
