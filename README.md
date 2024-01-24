@@ -1,6 +1,6 @@
 # Computer Architectures, Project 4 (2023 fall)
 
-Implement FAST page mapping in SimpleSSD simulator. Course project 4 for Computer Architectures in Peking University (2023 fall).
+Implement FAST page mapping in SimpleSSD simulator. Course project 4 for Computer Architectures course in Peking University (2023 fall).
 
 The main implementation of FAST page mapping is in ```simplessd/ftl/fast.cc``` and ```simplessd/ftl/fast.hh```. I also modified or added some functions in ```simplessd/ftl/common/block.cc``` and ```simplessd/ftl/common/block.hh```. To start simulation using FAST page mapping, first build SimpleSSD simulator:
 
